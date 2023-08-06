@@ -1,0 +1,6 @@
+2023-08-06 03:39:18.055316 - Initialized conversion of CBT362
+2023-08-06 03:39:18.067858 - Received CBT.V505.FILE362.PDS from FILE362.XMI 
+2023-08-06 03:39:18.068814 - Found CXYPSCAN.bin containing application/octet-stream, moved to PDS/CXYPSCAN
+2023-08-06 03:39:18.069811 - Found TAPESCAN.bin containing application/octet-stream, moved to PDS/TAPESCAN
+2023-08-06 03:39:18.071105 - Found ZZRELINK.bin containing application/octet-stream, moved to PDS/ZZRELINK
+2023-08-06 03:39:18.072302 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
